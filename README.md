@@ -12,3 +12,17 @@ This project is a simple user management system built with React for the fronten
 
 ### Frontend
 1. Install dependencies:
+
+2.  Run the React app:
+
+3.  3. Open `http://localhost:3000` in your browser to interact with the user management app.
+
+### Endpoints
+- `GET /backend/api/users.php`: Fetch all users.
+- `POST /backend/api/users.php`: Create a new user.
+- `PUT /backend/api/users.php`: Update an existing user.
+- `DELETE /backend/api/users.php`: Delete a user.
+
+## License
+MIT License (or other if applicable).
+
